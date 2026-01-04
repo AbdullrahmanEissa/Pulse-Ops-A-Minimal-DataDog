@@ -1,5 +1,3 @@
----
-
 ## 🚀 PulseOps – Service Health & Incident Monitoring Platform
 
 **PulseOps** is a production-minded demo platform designed to showcase **real-world DevOps architecture**, not just application code.
